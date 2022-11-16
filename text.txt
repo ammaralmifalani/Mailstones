@@ -1,4 +1,8 @@
 ========== Group 2 ==========
 Ammar Almifalani 
+<<<<<<< HEAD
 Azjin Khoshnaou.
 
+=======
+Mark van Atten 
+>>>>>>> 17819112c77d2b2e48c63a46440c963281e74b92
